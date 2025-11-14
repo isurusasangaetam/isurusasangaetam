@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-# I'm Isuru — passionate about building things that live on the web ✨
+# I'm Isuru - U can call me *ERIS*  ✨
 
 *(Insert a clean banner or animated emoji here!)*
 
