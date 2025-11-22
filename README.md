@@ -2,8 +2,6 @@
 
 # I'm Isuru - U can call me *ERIS*  ✨
 
-*(Insert a clean banner or animated emoji here!)*
-
 I’m a Computer Science & Statistics undergraduate who enjoys creating elegant digital experiences — from full‑stack applications to playful UI concepts. I love learning new technologies, exploring creative problem‑solving, and building projects that push my skills forward.
 
 ---
