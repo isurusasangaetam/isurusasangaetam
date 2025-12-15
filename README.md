@@ -34,15 +34,6 @@ I am always exploring new technologies and am currently open to opportunities wh
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=isurusasangaetam&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Isuru's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isurusasangaetam&layout=compact&theme=dracula&hide_border=true&exclude_repo=github-readme-stats" alt="Top Languages" />
-</p>
-
----
-
 ### 📬 Let's Connect
 
 Open to collaboration on Full Stack and Embedded projects.
